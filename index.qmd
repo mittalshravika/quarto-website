@@ -1,0 +1,5 @@
+---
+title: "Home"
+---
+
+Personal website for Shravika Mittal.
